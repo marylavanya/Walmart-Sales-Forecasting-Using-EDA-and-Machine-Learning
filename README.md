@@ -8,8 +8,8 @@
 - [Metrics Used](#metrics-used)
 - [Technologies Used](#technologies-used)
 - [Observations from Machine Learning Models](#observations-from-machine-learning-models)
-- [Key Insights](key-insights)
-- [Recommendations](Recommendations)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
 ## Project Overview
 This project uses a dataset of over 5,50,068 Walmart retail records to analyze customer purchase behavior and build predictive models. The objective is to forecast purchase amounts based on customer demographics and transactional features using machine learning.
 ## Objective
